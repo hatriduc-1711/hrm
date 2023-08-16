@@ -1,0 +1,31 @@
+{
+  "HRManagementSystem": "HR Management System",
+  "auth-signIn": "Sign In",
+  "auth-signIn-userName": "Username",
+  "auth-signIn-password": "Password",
+  "auth-signIn-factory": "Factory",
+  "auth-signIn-selectFactory": "Select Factory",
+  "auth-signIn-pleaseEnterUsername": "Please enter username",
+  "auth-signIn-pleaseEnterPassword": "Please enter password",
+  "auth-signIn-passwordMinimumTo8Characters": "Password minimum to 8 characters",
+  "auth-signIn-passwordMaximumTo16Characters": "Password maximum to 16 characters",
+  "auth-signIn-pleaseChooseFactory": "Please choose factory",
+
+  "auth-forgotPassword": "Forgot password",
+  "auth-forgotPassword-yourWorkEmail": "Your work email",
+  "auth-forgotPassword-confirm&SendOTP": "Confirm & Send OTP",
+  "auth-forgotPassword-backToSignIn": "Back to Sign In",
+
+  "header-signOut": "Sign Out",
+  "header-resetPassword": "Reset Password",
+  "general": "General",
+  "advance": "Advance",
+  "attendanceManagement": "Attendance Management",
+  "leaveManagement": "Leave Management",
+  "payrollManagement": "Payroll Management",
+  "employeeManagement": "Employee Management",
+  "userManagement": "User Management",
+  "masterManagement": "Master Management",
+  "globalSettings": "Global Settings",
+  "settings": "Settings"
+}
